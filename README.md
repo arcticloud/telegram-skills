@@ -63,6 +63,8 @@ Then ask your agent — e.g. *"send this report to my Telegram channel as a rich
 | [`tg-rich-digest`](skills/tg-rich-digest/) | Digest and channel-article patterns: flat layout, preview + collapsed full version, media as evidence, preflight gate |
 | [`tg-reply-rewrite`](skills/tg-reply-rewrite/) | Rewrite a raw agent reply for a non-engineer on a phone: what happened and how urgent, what it means, a ready sentence to send back, every fact unchanged |
 | [`tg-widgets`](skills/tg-widgets/) | Interactive HTML message widgets (HTML bubbles, `sendWidget`): how to write them by Telegram's docs, limits, input, state, where live delivery differs |
+| [`tg-miniapp-delivery`](skills/tg-miniapp-delivery/) | Reach a buyer who paid in a Mini App and never started the bot: `requestWriteAccess`, reading send errors, silent retries, one useful owner alert |
+| [`tg-broadcasts`](skills/tg-broadcasts/) | Mass sends that survive restarts: limits, `429`, paid broadcasts, consent checks, duplicate protection, opt-out |
 
 ## Reference
 

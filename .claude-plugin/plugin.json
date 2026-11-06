@@ -8,5 +8,5 @@
   "homepage": "https://github.com/serejaris/telegram-skills",
   "repository": "https://github.com/serejaris/telegram-skills",
   "license": "MIT",
-  "keywords": ["telegram", "bot-api", "rich-messages", "streaming", "digest", "polls", "reply-rewrite", "widgets"]
+  "keywords": ["telegram", "bot-api", "rich-messages", "streaming", "digest", "polls", "reply-rewrite", "widgets", "mini-apps", "broadcasts"]
 }
